@@ -1,0 +1,21 @@
+.logincontainer{
+  background : linear-gradient(to right,#7474bf,#348ac7);
+  position: absolute;
+  left : 0;
+  top : 0;
+  width : 100%;
+  height : 100%;
+}
+
+.logincontainer .form-login{
+  max-width: 30rem;
+  margin : 10rem auto;
+}
+
+.form-title{
+  font-size : 1.8rem; 
+  color: #ffffff;
+  text-align: center;
+  display: block;  
+  margin-bottom : 15px;
+}

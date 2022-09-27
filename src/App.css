@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500&display=swap');
+
+* {
+  font-family: 'Manrope', sans-serif;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #dadddd !important;
+  padding-top: 70px;
+}
+
+.ant-table-thead tr th {
+  white-space: nowrap !important;
+  text-align: center;
+  background-color: #0984e3 !important;
+  color: #ecf0f1 !important;
+}
+
+.ant-table-tbody tr:nth-child(even) {
+  background-color: #e6e6e6;
+}
+
+.ant-table-tbody > tr:hover:not(.ant-table-expanded-row) > td {
+  background-color: #aac6e4 !important;
+}
+
+.ant-table-body {
+  margin: 0 !important;
+}
+
+.ant-table-tbody tr td {
+  font-size: 13px;
+}
+
+.label-top .ant-form-item-label {
+  line-height: 1.2;
+}
+
+.bl-cl {
+  color: #3c8dbc !important;
+}
+
+.red-cl {
+  color: #c0392b !important;
+}
+
+.mw-100 {
+  max-width: 100 !important;
+}
+
+.gr-cl {
+  color: #27ae60 !important;
+}
+
+.ant-table-tbody tr td:hover {
+  overflow: visible;
+  white-space: normal;
+  word-wrap: break-word;
+}
+
+.editable-cell {
+  position: relative;
+}
+
+.editable-cell-value-wrap {
+  cursor: pointer;
+}
+
+.editable-row:hover .editable-cell-value-wrap {
+  border: 1px solid #d9d9d9;
+  border-radius: 4px;
+  padding: 4px 11px;
+}
