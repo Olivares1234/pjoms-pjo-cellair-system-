@@ -1,7 +1,8 @@
 <p align="center"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="400"></p>
 
 Link: https://pjoms-cellair-system.cellaircorp.com
-<img src="https://user-images.githubusercontent.com/83743108/192415762-1d7d0027-c754-4f07-800a-742a43055604.png" width="900" height="500">
+<img width="704" alt="image" src="https://github.com/Olivares1234/pjoms-pjo-cellair-system-/assets/83743108/4e2a4ce5-2ab5-47f5-ac5d-7fa26e7fa0a7">
+
 
 ## Available Scripts
 
