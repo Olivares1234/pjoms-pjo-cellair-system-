@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import {
   CartesianGrid,
   XAxis,
@@ -7,7 +7,7 @@ import {
   Tooltip,
   Line,
   LineChart,
-} from 'recharts';
+} from "recharts";
 
 const DeliveryChart = ({ data }) => (
   <ResponsiveContainer width="100%" height={200}>
@@ -16,8 +16,13 @@ const DeliveryChart = ({ data }) => (
       <XAxis dataKey="deliverydate" />
       <YAxis width={data.length > 0 ? 40 : 0.5} />
       <Tooltip />
-      <Line type="monotone" name="Quantity" dataKey="quantity" stroke="#3c8dbc" />
+      <Line
+        type="monotone"
+        name="Quantity"
+        dataKey="quantity"
+        stroke="#3c8dbc"
+      />
     </LineChart>
   </ResponsiveContainer>
-)
-export default DeliveryChart
+);
+export default DeliveryChart;

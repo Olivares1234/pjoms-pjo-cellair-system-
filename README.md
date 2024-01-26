@@ -1,9 +1,4 @@
-<p align="center"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="400"></p>
-
-Link: https://pjoms-cellair-system.cellaircorp.com
-<img width="960" alt="image" src="https://github.com/Olivares1234/pjoms-pjo-cellair-system-/assets/83743108/ec838c4c-fe67-4885-af06-961b44fd6152">
-
-
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
