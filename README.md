@@ -1,4 +1,5 @@
-<img width="944" alt="image" src="https://github.com/Olivares1234/pjoms-pjo-cellair-system-/assets/83743108/dabf5f8c-674c-4e38-80a2-fbe3c07735cd">
+<img width="948" alt="image" src="https://github.com/Olivares1234/pjoms-pjo-cellair-system-/assets/83743108/411406cf-fadf-4031-a58a-077a108b1c14">
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
