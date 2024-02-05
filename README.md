@@ -1,7 +1,6 @@
 <img width="948" alt="image" src="https://github.com/Olivares1234/pjoms-pjo-cellair-system-/assets/83743108/411406cf-fadf-4031-a58a-077a108b1c14">
 
-The Purchase Job Order Management System is a streamlined solution for efficient procurement processes. This system facilitates the creation and forwarding of purchase orders, enabling users to submit requests for the desired quantity of items directly to the warehouse. The interface provides a comprehensive job order list, categorizing orders based on their status, whether they are open or already served. With intuitive monitoring features, users can easily track the progress of each order, ensuring a transparent and organized workflow for enhanced purchase order management.",
-      demoLink: "https://github.com/Olivares1234/pjoms-pjo-cellair-system-",
+The Purchase Job Order Management System is a streamlined solution for efficient procurement processes. This system facilitates the creation and forwarding of purchase orders, enabling users to submit requests for the desired quantity of items directly to the warehouse. The interface provides a comprehensive job order list, categorizing orders based on their status, and whether they are open or already served. With intuitive monitoring features, users can easily track the progress of each order, ensuring a transparent and organized workflow for enhanced purchase order management.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
